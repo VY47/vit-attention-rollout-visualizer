@@ -4,7 +4,7 @@
 
 A real-time visualisation of what a Vision Transformer "looks at" when
 
-classifying webcam frames, using Attention Rollout (Abnar \& Zuidema, 2020) —
+classifying webcam frames, using Attention Rollout (Abnar & Zuidema, 2020) 
 
 paired with a local LLM that translates the raw attention pattern into a
 
