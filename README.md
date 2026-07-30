@@ -82,8 +82,6 @@ https://drive.google.com/file/d/1dQDLDotH\_W4v5\_V1dn4MlNxWtq4aRPdN/view?usp=dri
 
 | Object              | Predicted Label       | Attention Region |
 
-|---------------------|------------------------|-------------------|
-
 | Computer mouse       | mouse                 | center            |
 
 | Phone                | cellphone              | middle-left       |
