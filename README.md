@@ -1,4 +1,4 @@
- ViT Attention Rollout — Live Webcam Visualizer with LLM Explanations
+ ViT Attention Rollout - A Live Webcam Visualizer with LLM Explanations
 
 
 
@@ -12,11 +12,11 @@ plain-English explanation.
 
 
 
- Why I built this
+Why I built this:
 
 I wanted to understand how self-attention actually produces a classification
 
-decision in a ViT, rather than treating it as a black box — so I implemented
+decision in a ViT, rather than treating it as a black box, so I implemented
 
 attention rollout myself and visualised it live on my own webcam. I then
 
@@ -24,7 +24,7 @@ added a local LLM (Llama 3.2, via Ollama) on top, to see whether a model's
 
 internal attention pattern could be translated into a human-readable
 
-explanation in real time — effectively building a small interpretability
+explanation in real time effectively building a small interpretability
 
 pipeline that combines a discriminative model (ViT) with a generative one
 
